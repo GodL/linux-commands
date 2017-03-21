@@ -1,12 +1,12 @@
 # linux-commands
-some commands
->mv(移动或更名现有的文件或目录)
->    description:mv -bfiuv oldfile newfile
->    -b 若需覆盖文件,则覆盖前先行备份
->    -f 若目标文件或目录与现有的文件或目录重复,则直接覆盖现有的文件或目录
->    -i 覆盖前先行询问用户
->    -u 在移动或更改文件名时,若目标文件已存在,且其文件日期比原文件新,则不覆盖目标文件
->    -v 执行时显示详细的信息
+some commands</br>
+>mv(移动或更名现有的文件或目录)</br>
+>    description:mv -bfiuv oldfile newfile</br>
+>    -b 若需覆盖文件,则覆盖前先行备份</br>
+>    -f 若目标文件或目录与现有的文件或目录重复,则直接覆盖现有的文件或目录</br>
+>    -i 覆盖前先行询问用户</br>
+>    -u 在移动或更改文件名时,若目标文件已存在,且其文件日期比原文件新,则不覆盖目标文件</br>
+>    -v 执行时显示详细的信息</br>
 
 rm(删除文件或目录)
     description:rm -dfirv file
